@@ -1,4 +1,4 @@
-# Reverse Engineering in Python - Public Key Deobfuscation
+# Reverse Engineering in Python - Public Key Deobfuscation in Brawl Stars 
 
 This guide demonstrates the process of deobfuscating the server's public key using pure Python.
 
